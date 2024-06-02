@@ -1,0 +1,9 @@
+<HTML>
+
+<frameset rows=45%,45%,10%>
+    <frame src="mision.html">
+    <frame src="vision.html">
+    <frame src="BANNER1.html">
+ </frameset>
+
+</HTML>
